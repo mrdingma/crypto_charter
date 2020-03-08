@@ -1,0 +1,5269 @@
+{
+  "Mar 7, 2020 04:09:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,132.8083",
+      "description": "United States Dollar",
+      "rate_float": 9132.8083
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,998.5898",
+      "description": "British Pound Sterling",
+      "rate_float": 6998.5898
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,092.0152",
+      "description": "Euro",
+      "rate_float": 8092.0152
+    }
+  },
+  "Mar 7, 2020 04:10:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,129.5550",
+      "description": "United States Dollar",
+      "rate_float": 9129.555
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,996.0967",
+      "description": "British Pound Sterling",
+      "rate_float": 6996.0967
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,089.1327",
+      "description": "Euro",
+      "rate_float": 8089.1327
+    }
+  },
+  "Mar 7, 2020 04:11:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,128.5917",
+      "description": "United States Dollar",
+      "rate_float": 9128.5917
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,995.3585",
+      "description": "British Pound Sterling",
+      "rate_float": 6995.3585
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,088.2791",
+      "description": "Euro",
+      "rate_float": 8088.2791
+    }
+  },
+  "Mar 7, 2020 04:12:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,126.8183",
+      "description": "United States Dollar",
+      "rate_float": 9126.8183
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,993.9995",
+      "description": "British Pound Sterling",
+      "rate_float": 6993.9995
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,086.7079",
+      "description": "Euro",
+      "rate_float": 8086.7079
+    }
+  },
+  "Mar 7, 2020 04:13:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,122.1067",
+      "description": "United States Dollar",
+      "rate_float": 9122.1067
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,990.3889",
+      "description": "British Pound Sterling",
+      "rate_float": 6990.3889
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,082.5331",
+      "description": "Euro",
+      "rate_float": 8082.5331
+    }
+  },
+  "Mar 7, 2020 04:14:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,124.0067",
+      "description": "United States Dollar",
+      "rate_float": 9124.0067
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,991.8449",
+      "description": "British Pound Sterling",
+      "rate_float": 6991.8449
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,084.2166",
+      "description": "Euro",
+      "rate_float": 8084.2166
+    }
+  },
+  "Mar 7, 2020 04:15:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,120.5183",
+      "description": "United States Dollar",
+      "rate_float": 9120.5183
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,989.1718",
+      "description": "British Pound Sterling",
+      "rate_float": 6989.1718
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,081.1258",
+      "description": "Euro",
+      "rate_float": 8081.1258
+    }
+  },
+  "Mar 7, 2020 04:16:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,120.5000",
+      "description": "United States Dollar",
+      "rate_float": 9120.5
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,989.1577",
+      "description": "British Pound Sterling",
+      "rate_float": 6989.1577
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,081.1096",
+      "description": "Euro",
+      "rate_float": 8081.1096
+    }
+  },
+  "Mar 7, 2020 04:17:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,118.6833",
+      "description": "United States Dollar",
+      "rate_float": 9118.6833
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,987.7656",
+      "description": "British Pound Sterling",
+      "rate_float": 6987.7656
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,079.4999",
+      "description": "Euro",
+      "rate_float": 8079.4999
+    }
+  },
+  "Mar 7, 2020 04:18:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,118.7933",
+      "description": "United States Dollar",
+      "rate_float": 9118.7933
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,987.8499",
+      "description": "British Pound Sterling",
+      "rate_float": 6987.8499
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,079.5974",
+      "description": "Euro",
+      "rate_float": 8079.5974
+    }
+  },
+  "Mar 7, 2020 04:19:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,118.8000",
+      "description": "United States Dollar",
+      "rate_float": 9118.8
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,987.8550",
+      "description": "British Pound Sterling",
+      "rate_float": 6987.855
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,079.6033",
+      "description": "Euro",
+      "rate_float": 8079.6033
+    }
+  },
+  "Mar 7, 2020 04:20:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,118.8017",
+      "description": "United States Dollar",
+      "rate_float": 9118.8017
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,987.8563",
+      "description": "British Pound Sterling",
+      "rate_float": 6987.8563
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,079.6048",
+      "description": "Euro",
+      "rate_float": 8079.6048
+    }
+  },
+  "Mar 7, 2020 04:21:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,118.7050",
+      "description": "United States Dollar",
+      "rate_float": 9118.705
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,987.7822",
+      "description": "British Pound Sterling",
+      "rate_float": 6987.7822
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,079.5191",
+      "description": "Euro",
+      "rate_float": 8079.5191
+    }
+  },
+  "Mar 7, 2020 04:22:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,117.0233",
+      "description": "United States Dollar",
+      "rate_float": 9117.0233
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,986.4935",
+      "description": "British Pound Sterling",
+      "rate_float": 6986.4935
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,078.0291",
+      "description": "Euro",
+      "rate_float": 8078.0291
+    }
+  },
+  "Mar 7, 2020 04:23:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,116.1983",
+      "description": "United States Dollar",
+      "rate_float": 9116.1983
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,985.8613",
+      "description": "British Pound Sterling",
+      "rate_float": 6985.8613
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,077.2981",
+      "description": "Euro",
+      "rate_float": 8077.2981
+    }
+  },
+  "Mar 7, 2020 04:24:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,116.1800",
+      "description": "United States Dollar",
+      "rate_float": 9116.18
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,985.8472",
+      "description": "British Pound Sterling",
+      "rate_float": 6985.8472
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,077.2819",
+      "description": "Euro",
+      "rate_float": 8077.2819
+    }
+  },
+  "Mar 7, 2020 04:25:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,117.0350",
+      "description": "United States Dollar",
+      "rate_float": 9117.035
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,986.5024",
+      "description": "British Pound Sterling",
+      "rate_float": 6986.5024
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,078.0395",
+      "description": "Euro",
+      "rate_float": 8078.0395
+    }
+  },
+  "Mar 7, 2020 04:26:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,118.1083",
+      "description": "United States Dollar",
+      "rate_float": 9118.1083
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,987.3250",
+      "description": "British Pound Sterling",
+      "rate_float": 6987.325
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,078.9905",
+      "description": "Euro",
+      "rate_float": 8078.9905
+    }
+  },
+  "Mar 7, 2020 04:27:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,117.7067",
+      "description": "United States Dollar",
+      "rate_float": 9117.7067
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,987.0171",
+      "description": "British Pound Sterling",
+      "rate_float": 6987.0171
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,078.6346",
+      "description": "Euro",
+      "rate_float": 8078.6346
+    }
+  },
+  "Mar 7, 2020 04:28:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,114.3800",
+      "description": "United States Dollar",
+      "rate_float": 9114.38
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,984.4679",
+      "description": "British Pound Sterling",
+      "rate_float": 6984.4679
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,075.6870",
+      "description": "Euro",
+      "rate_float": 8075.687
+    }
+  },
+  "Mar 7, 2020 04:29:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,112.1950",
+      "description": "United States Dollar",
+      "rate_float": 9112.195
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,982.7935",
+      "description": "British Pound Sterling",
+      "rate_float": 6982.7935
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,073.7510",
+      "description": "Euro",
+      "rate_float": 8073.751
+    }
+  },
+  "Mar 7, 2020 04:30:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,111.6833",
+      "description": "United States Dollar",
+      "rate_float": 9111.6833
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,982.4014",
+      "description": "British Pound Sterling",
+      "rate_float": 6982.4014
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,073.2977",
+      "description": "Euro",
+      "rate_float": 8073.2977
+    }
+  },
+  "Mar 7, 2020 04:31:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,111.8717",
+      "description": "United States Dollar",
+      "rate_float": 9111.8717
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,982.5457",
+      "description": "British Pound Sterling",
+      "rate_float": 6982.5457
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,073.4645",
+      "description": "Euro",
+      "rate_float": 8073.4645
+    }
+  },
+  "Mar 7, 2020 04:32:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,112.7017",
+      "description": "United States Dollar",
+      "rate_float": 9112.7017
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,983.1818",
+      "description": "British Pound Sterling",
+      "rate_float": 6983.1818
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,074.2000",
+      "description": "Euro",
+      "rate_float": 8074.2
+    }
+  },
+  "Mar 7, 2020 04:33:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,112.9933",
+      "description": "United States Dollar",
+      "rate_float": 9112.9933
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,983.4053",
+      "description": "British Pound Sterling",
+      "rate_float": 6983.4053
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,074.4584",
+      "description": "Euro",
+      "rate_float": 8074.4584
+    }
+  },
+  "Mar 7, 2020 04:34:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,113.5667",
+      "description": "United States Dollar",
+      "rate_float": 9113.5667
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,983.8446",
+      "description": "British Pound Sterling",
+      "rate_float": 6983.8446
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,074.9664",
+      "description": "Euro",
+      "rate_float": 8074.9664
+    }
+  },
+  "Mar 7, 2020 04:35:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,113.0300",
+      "description": "United States Dollar",
+      "rate_float": 9113.03
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,983.4334",
+      "description": "British Pound Sterling",
+      "rate_float": 6983.4334
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,074.4909",
+      "description": "Euro",
+      "rate_float": 8074.4909
+    }
+  },
+  "Mar 7, 2020 04:36:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,109.9900",
+      "description": "United States Dollar",
+      "rate_float": 9109.99
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,981.1038",
+      "description": "British Pound Sterling",
+      "rate_float": 6981.1038
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,071.7973",
+      "description": "Euro",
+      "rate_float": 8071.7973
+    }
+  },
+  "Mar 7, 2020 04:37:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,109.7617",
+      "description": "United States Dollar",
+      "rate_float": 9109.7617
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,980.9288",
+      "description": "British Pound Sterling",
+      "rate_float": 6980.9288
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,071.5950",
+      "description": "Euro",
+      "rate_float": 8071.595
+    }
+  },
+  "Mar 7, 2020 04:38:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,107.6700",
+      "description": "United States Dollar",
+      "rate_float": 9107.67
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,979.3259",
+      "description": "British Pound Sterling",
+      "rate_float": 6979.3259
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,069.7417",
+      "description": "Euro",
+      "rate_float": 8069.7417
+    }
+  },
+  "Mar 7, 2020 04:39:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,096.9017",
+      "description": "United States Dollar",
+      "rate_float": 9096.9017
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,971.0740",
+      "description": "British Pound Sterling",
+      "rate_float": 6971.074
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,060.2006",
+      "description": "Euro",
+      "rate_float": 8060.2006
+    }
+  },
+  "Mar 7, 2020 04:40:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,098.0167",
+      "description": "United States Dollar",
+      "rate_float": 9098.0167
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,971.9284",
+      "description": "British Pound Sterling",
+      "rate_float": 6971.9284
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,061.1885",
+      "description": "Euro",
+      "rate_float": 8061.1885
+    }
+  },
+  "Mar 7, 2020 04:41:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,096.3250",
+      "description": "United States Dollar",
+      "rate_float": 9096.325
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,970.6321",
+      "description": "British Pound Sterling",
+      "rate_float": 6970.6321
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,059.6896",
+      "description": "Euro",
+      "rate_float": 8059.6896
+    }
+  },
+  "Mar 7, 2020 04:42:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,096.5367",
+      "description": "United States Dollar",
+      "rate_float": 9096.5367
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,970.7943",
+      "description": "British Pound Sterling",
+      "rate_float": 6970.7943
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,059.8772",
+      "description": "Euro",
+      "rate_float": 8059.8772
+    }
+  },
+  "Mar 7, 2020 04:43:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,093.4683",
+      "description": "United States Dollar",
+      "rate_float": 9093.4683
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,968.4430",
+      "description": "British Pound Sterling",
+      "rate_float": 6968.443
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,057.1585",
+      "description": "Euro",
+      "rate_float": 8057.1585
+    }
+  },
+  "Mar 7, 2020 04:44:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,091.9950",
+      "description": "United States Dollar",
+      "rate_float": 9091.995
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,967.3140",
+      "description": "British Pound Sterling",
+      "rate_float": 6967.314
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,055.8531",
+      "description": "Euro",
+      "rate_float": 8055.8531
+    }
+  },
+  "Mar 7, 2020 04:45:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,098.6383",
+      "description": "United States Dollar",
+      "rate_float": 9098.6383
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,972.4048",
+      "description": "British Pound Sterling",
+      "rate_float": 6972.4048
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,061.7393",
+      "description": "Euro",
+      "rate_float": 8061.7393
+    }
+  },
+  "Mar 7, 2020 04:46:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,098.5567",
+      "description": "United States Dollar",
+      "rate_float": 9098.5567
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,972.3423",
+      "description": "British Pound Sterling",
+      "rate_float": 6972.3423
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,061.6670",
+      "description": "Euro",
+      "rate_float": 8061.667
+    }
+  },
+  "Mar 7, 2020 04:47:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,099.0583",
+      "description": "United States Dollar",
+      "rate_float": 9099.0583
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,972.7267",
+      "description": "British Pound Sterling",
+      "rate_float": 6972.7267
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,062.1114",
+      "description": "Euro",
+      "rate_float": 8062.1114
+    }
+  },
+  "Mar 7, 2020 04:48:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,094.2383",
+      "description": "United States Dollar",
+      "rate_float": 9094.2383
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,969.0331",
+      "description": "British Pound Sterling",
+      "rate_float": 6969.0331
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,057.8407",
+      "description": "Euro",
+      "rate_float": 8057.8407
+    }
+  },
+  "Mar 7, 2020 04:49:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,096.3300",
+      "description": "United States Dollar",
+      "rate_float": 9096.33
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,970.6359",
+      "description": "British Pound Sterling",
+      "rate_float": 6970.6359
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,059.6940",
+      "description": "Euro",
+      "rate_float": 8059.694
+    }
+  },
+  "Mar 7, 2020 04:50:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,098.1917",
+      "description": "United States Dollar",
+      "rate_float": 9098.1917
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,972.0626",
+      "description": "British Pound Sterling",
+      "rate_float": 6972.0626
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,061.3435",
+      "description": "Euro",
+      "rate_float": 8061.3435
+    }
+  },
+  "Mar 7, 2020 04:51:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,097.8450",
+      "description": "United States Dollar",
+      "rate_float": 9097.845
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,971.7969",
+      "description": "British Pound Sterling",
+      "rate_float": 6971.7969
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,061.0364",
+      "description": "Euro",
+      "rate_float": 8061.0364
+    }
+  },
+  "Mar 7, 2020 04:52:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,100.2817",
+      "description": "United States Dollar",
+      "rate_float": 9100.2817
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,973.6641",
+      "description": "British Pound Sterling",
+      "rate_float": 6973.6641
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,063.1954",
+      "description": "Euro",
+      "rate_float": 8063.1954
+    }
+  },
+  "Mar 7, 2020 04:53:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,101.2067",
+      "description": "United States Dollar",
+      "rate_float": 9101.2067
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,974.3730",
+      "description": "British Pound Sterling",
+      "rate_float": 6974.373
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,064.0150",
+      "description": "Euro",
+      "rate_float": 8064.015
+    }
+  },
+  "Mar 7, 2020 04:54:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,100.7133",
+      "description": "United States Dollar",
+      "rate_float": 9100.7133
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,973.9949",
+      "description": "British Pound Sterling",
+      "rate_float": 6973.9949
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,063.5778",
+      "description": "Euro",
+      "rate_float": 8063.5778
+    }
+  },
+  "Mar 7, 2020 04:55:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,100.9100",
+      "description": "United States Dollar",
+      "rate_float": 9100.91
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,974.1456",
+      "description": "British Pound Sterling",
+      "rate_float": 6974.1456
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,063.7521",
+      "description": "Euro",
+      "rate_float": 8063.7521
+    }
+  },
+  "Mar 7, 2020 04:56:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,102.0333",
+      "description": "United States Dollar",
+      "rate_float": 9102.0333
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,975.0065",
+      "description": "British Pound Sterling",
+      "rate_float": 6975.0065
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,064.7474",
+      "description": "Euro",
+      "rate_float": 8064.7474
+    }
+  },
+  "Mar 7, 2020 04:57:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,106.2900",
+      "description": "United States Dollar",
+      "rate_float": 9106.29
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,978.2684",
+      "description": "British Pound Sterling",
+      "rate_float": 6978.2684
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,068.5190",
+      "description": "Euro",
+      "rate_float": 8068.519
+    }
+  },
+  "Mar 7, 2020 04:58:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,106.1067",
+      "description": "United States Dollar",
+      "rate_float": 9106.1067
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,978.1279",
+      "description": "British Pound Sterling",
+      "rate_float": 6978.1279
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,068.3565",
+      "description": "Euro",
+      "rate_float": 8068.3565
+    }
+  },
+  "Mar 7, 2020 04:59:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,104.2950",
+      "description": "United States Dollar",
+      "rate_float": 9104.295
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,976.7396",
+      "description": "British Pound Sterling",
+      "rate_float": 6976.7396
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,066.7513",
+      "description": "Euro",
+      "rate_float": 8066.7513
+    }
+  },
+  "Mar 7, 2020 05:00:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,102.3233",
+      "description": "United States Dollar",
+      "rate_float": 9102.3233
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,975.2287",
+      "description": "British Pound Sterling",
+      "rate_float": 6975.2287
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,065.0044",
+      "description": "Euro",
+      "rate_float": 8065.0044
+    }
+  },
+  "Mar 7, 2020 05:01:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,098.1267",
+      "description": "United States Dollar",
+      "rate_float": 9098.1267
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,972.0127",
+      "description": "British Pound Sterling",
+      "rate_float": 6972.0127
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,061.2860",
+      "description": "Euro",
+      "rate_float": 8061.286
+    }
+  },
+  "Mar 7, 2020 05:02:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,099.3567",
+      "description": "United States Dollar",
+      "rate_float": 9099.3567
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,972.9553",
+      "description": "British Pound Sterling",
+      "rate_float": 6972.9553
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,062.3758",
+      "description": "Euro",
+      "rate_float": 8062.3758
+    }
+  },
+  "Mar 7, 2020 05:03:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,092.3650",
+      "description": "United States Dollar",
+      "rate_float": 9092.365
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,967.5975",
+      "description": "British Pound Sterling",
+      "rate_float": 6967.5975
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,056.1809",
+      "description": "Euro",
+      "rate_float": 8056.1809
+    }
+  },
+  "Mar 7, 2020 05:04:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,095.4350",
+      "description": "United States Dollar",
+      "rate_float": 9095.435
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,969.9501",
+      "description": "British Pound Sterling",
+      "rate_float": 6969.9501
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,058.9010",
+      "description": "Euro",
+      "rate_float": 8058.901
+    }
+  },
+  "Mar 7, 2020 05:05:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,095.7033",
+      "description": "United States Dollar",
+      "rate_float": 9095.7033
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,970.7651",
+      "description": "British Pound Sterling",
+      "rate_float": 6970.7651
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,059.1388",
+      "description": "Euro",
+      "rate_float": 8059.1388
+    }
+  },
+  "Mar 7, 2020 05:06:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,095.2800",
+      "description": "United States Dollar",
+      "rate_float": 9095.28
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,970.4407",
+      "description": "British Pound Sterling",
+      "rate_float": 6970.4407
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,058.7637",
+      "description": "Euro",
+      "rate_float": 8058.7637
+    }
+  },
+  "Mar 7, 2020 05:07:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,094.2633",
+      "description": "United States Dollar",
+      "rate_float": 9094.2633
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,969.6615",
+      "description": "British Pound Sterling",
+      "rate_float": 6969.6615
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,057.8629",
+      "description": "Euro",
+      "rate_float": 8057.8629
+    }
+  },
+  "Mar 7, 2020 05:08:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,093.3250",
+      "description": "United States Dollar",
+      "rate_float": 9093.325
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,968.9424",
+      "description": "British Pound Sterling",
+      "rate_float": 6968.9424
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,057.0315",
+      "description": "Euro",
+      "rate_float": 8057.0315
+    }
+  },
+  "Mar 7, 2020 05:09:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,093.2650",
+      "description": "United States Dollar",
+      "rate_float": 9093.265
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,968.8964",
+      "description": "British Pound Sterling",
+      "rate_float": 6968.8964
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,056.9783",
+      "description": "Euro",
+      "rate_float": 8056.9783
+    }
+  },
+  "Mar 7, 2020 05:10:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,097.8217",
+      "description": "United States Dollar",
+      "rate_float": 9097.8217
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,972.3886",
+      "description": "British Pound Sterling",
+      "rate_float": 6972.3886
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,061.0157",
+      "description": "Euro",
+      "rate_float": 8061.0157
+    }
+  },
+  "Mar 7, 2020 05:11:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,096.5267",
+      "description": "United States Dollar",
+      "rate_float": 9096.5267
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,971.3961",
+      "description": "British Pound Sterling",
+      "rate_float": 6971.3961
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,059.8683",
+      "description": "Euro",
+      "rate_float": 8059.8683
+    }
+  },
+  "Mar 7, 2020 05:12:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,097.1183",
+      "description": "United States Dollar",
+      "rate_float": 9097.1183
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,971.8495",
+      "description": "British Pound Sterling",
+      "rate_float": 6971.8495
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,060.3925",
+      "description": "Euro",
+      "rate_float": 8060.3925
+    }
+  },
+  "Mar 7, 2020 05:13:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,097.0933",
+      "description": "United States Dollar",
+      "rate_float": 9097.0933
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,971.8304",
+      "description": "British Pound Sterling",
+      "rate_float": 6971.8304
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,060.3704",
+      "description": "Euro",
+      "rate_float": 8060.3704
+    }
+  },
+  "Mar 7, 2020 05:14:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,097.8583",
+      "description": "United States Dollar",
+      "rate_float": 9097.8583
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,972.4167",
+      "description": "British Pound Sterling",
+      "rate_float": 6972.4167
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,061.0482",
+      "description": "Euro",
+      "rate_float": 8061.0482
+    }
+  },
+  "Mar 7, 2020 05:15:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,097.0583",
+      "description": "United States Dollar",
+      "rate_float": 9097.0583
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,971.8036",
+      "description": "British Pound Sterling",
+      "rate_float": 6971.8036
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,060.3394",
+      "description": "Euro",
+      "rate_float": 8060.3394
+    }
+  },
+  "Mar 7, 2020 05:16:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,093.4667",
+      "description": "United States Dollar",
+      "rate_float": 9093.4667
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,969.0510",
+      "description": "British Pound Sterling",
+      "rate_float": 6969.051
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,057.1570",
+      "description": "Euro",
+      "rate_float": 8057.157
+    }
+  },
+  "Mar 7, 2020 05:17:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,093.4650",
+      "description": "United States Dollar",
+      "rate_float": 9093.465
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,969.0497",
+      "description": "British Pound Sterling",
+      "rate_float": 6969.0497
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,057.1555",
+      "description": "Euro",
+      "rate_float": 8057.1555
+    }
+  },
+  "Mar 7, 2020 05:18:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,094.4833",
+      "description": "United States Dollar",
+      "rate_float": 9094.4833
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,969.8301",
+      "description": "British Pound Sterling",
+      "rate_float": 6969.8301
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,058.0578",
+      "description": "Euro",
+      "rate_float": 8058.0578
+    }
+  },
+  "Mar 7, 2020 05:19:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,094.3933",
+      "description": "United States Dollar",
+      "rate_float": 9094.3933
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,969.7612",
+      "description": "British Pound Sterling",
+      "rate_float": 6969.7612
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,057.9781",
+      "description": "Euro",
+      "rate_float": 8057.9781
+    }
+  },
+  "Mar 7, 2020 05:20:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,096.0350",
+      "description": "United States Dollar",
+      "rate_float": 9096.035
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,971.0193",
+      "description": "British Pound Sterling",
+      "rate_float": 6971.0193
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,059.4327",
+      "description": "Euro",
+      "rate_float": 8059.4327
+    }
+  },
+  "Mar 7, 2020 05:21:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,103.9083",
+      "description": "United States Dollar",
+      "rate_float": 9103.9083
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,977.0533",
+      "description": "British Pound Sterling",
+      "rate_float": 6977.0533
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,066.4087",
+      "description": "Euro",
+      "rate_float": 8066.4087
+    }
+  },
+  "Mar 7, 2020 05:22:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,107.3467",
+      "description": "United States Dollar",
+      "rate_float": 9107.3467
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,979.6883",
+      "description": "British Pound Sterling",
+      "rate_float": 6979.6883
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,069.4552",
+      "description": "Euro",
+      "rate_float": 8069.4552
+    }
+  },
+  "Mar 7, 2020 05:23:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,107.7433",
+      "description": "United States Dollar",
+      "rate_float": 9107.7433
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,979.9923",
+      "description": "British Pound Sterling",
+      "rate_float": 6979.9923
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,069.8067",
+      "description": "Euro",
+      "rate_float": 8069.8067
+    }
+  },
+  "Mar 7, 2020 05:24:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,108.1417",
+      "description": "United States Dollar",
+      "rate_float": 9108.1417
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,980.2976",
+      "description": "British Pound Sterling",
+      "rate_float": 6980.2976
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,070.1596",
+      "description": "Euro",
+      "rate_float": 8070.1596
+    }
+  },
+  "Mar 7, 2020 05:25:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,106.9567",
+      "description": "United States Dollar",
+      "rate_float": 9106.9567
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,979.3895",
+      "description": "British Pound Sterling",
+      "rate_float": 6979.3895
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,069.1097",
+      "description": "Euro",
+      "rate_float": 8069.1097
+    }
+  },
+  "Mar 7, 2020 05:26:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,109.9400",
+      "description": "United States Dollar",
+      "rate_float": 9109.94
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,981.6758",
+      "description": "British Pound Sterling",
+      "rate_float": 6981.6758
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,071.7530",
+      "description": "Euro",
+      "rate_float": 8071.753
+    }
+  },
+  "Mar 7, 2020 05:27:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,107.8983",
+      "description": "United States Dollar",
+      "rate_float": 9107.8983
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,980.1111",
+      "description": "British Pound Sterling",
+      "rate_float": 6980.1111
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,069.9440",
+      "description": "Euro",
+      "rate_float": 8069.944
+    }
+  },
+  "Mar 7, 2020 05:28:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,107.3517",
+      "description": "United States Dollar",
+      "rate_float": 9107.3517
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,979.6922",
+      "description": "British Pound Sterling",
+      "rate_float": 6979.6922
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,069.4597",
+      "description": "Euro",
+      "rate_float": 8069.4597
+    }
+  },
+  "Mar 7, 2020 05:29:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,102.2133",
+      "description": "United States Dollar",
+      "rate_float": 9102.2133
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,975.7543",
+      "description": "British Pound Sterling",
+      "rate_float": 6975.7543
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,064.9069",
+      "description": "Euro",
+      "rate_float": 8064.9069
+    }
+  },
+  "Mar 7, 2020 05:30:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,102.0767",
+      "description": "United States Dollar",
+      "rate_float": 9102.0767
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,975.6495",
+      "description": "British Pound Sterling",
+      "rate_float": 6975.6495
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,064.7858",
+      "description": "Euro",
+      "rate_float": 8064.7858
+    }
+  },
+  "Mar 7, 2020 05:31:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,093.4533",
+      "description": "United States Dollar",
+      "rate_float": 9093.4533
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,969.0408",
+      "description": "British Pound Sterling",
+      "rate_float": 6969.0408
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,057.1452",
+      "description": "Euro",
+      "rate_float": 8057.1452
+    }
+  },
+  "Mar 7, 2020 05:32:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,095.8350",
+      "description": "United States Dollar",
+      "rate_float": 9095.835
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,970.8660",
+      "description": "British Pound Sterling",
+      "rate_float": 6970.866
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,059.2555",
+      "description": "Euro",
+      "rate_float": 8059.2555
+    }
+  },
+  "Mar 7, 2020 05:33:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,095.7567",
+      "description": "United States Dollar",
+      "rate_float": 9095.7567
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,970.8060",
+      "description": "British Pound Sterling",
+      "rate_float": 6970.806
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,059.1860",
+      "description": "Euro",
+      "rate_float": 8059.186
+    }
+  },
+  "Mar 7, 2020 05:34:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,103.5550",
+      "description": "United States Dollar",
+      "rate_float": 9103.555
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,976.7825",
+      "description": "British Pound Sterling",
+      "rate_float": 6976.7825
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,066.0957",
+      "description": "Euro",
+      "rate_float": 8066.0957
+    }
+  },
+  "Mar 7, 2020 05:35:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,106.0700",
+      "description": "United States Dollar",
+      "rate_float": 9106.07
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,978.7099",
+      "description": "British Pound Sterling",
+      "rate_float": 6978.7099
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,068.3241",
+      "description": "Euro",
+      "rate_float": 8068.3241
+    }
+  },
+  "Mar 7, 2020 05:36:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,109.3217",
+      "description": "United States Dollar",
+      "rate_float": 9109.3217
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,981.2019",
+      "description": "British Pound Sterling",
+      "rate_float": 6981.2019
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,071.2052",
+      "description": "Euro",
+      "rate_float": 8071.2052
+    }
+  },
+  "Mar 7, 2020 05:37:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,109.2500",
+      "description": "United States Dollar",
+      "rate_float": 9109.25
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,981.1470",
+      "description": "British Pound Sterling",
+      "rate_float": 6981.147
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,071.1417",
+      "description": "Euro",
+      "rate_float": 8071.1417
+    }
+  },
+  "Mar 7, 2020 05:38:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,096.4600",
+      "description": "United States Dollar",
+      "rate_float": 9096.46
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,971.3450",
+      "description": "British Pound Sterling",
+      "rate_float": 6971.345
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,059.8092",
+      "description": "Euro",
+      "rate_float": 8059.8092
+    }
+  },
+  "Mar 7, 2020 05:39:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,096.5050",
+      "description": "United States Dollar",
+      "rate_float": 9096.505
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,971.3795",
+      "description": "British Pound Sterling",
+      "rate_float": 6971.3795
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,059.8491",
+      "description": "Euro",
+      "rate_float": 8059.8491
+    }
+  },
+  "Mar 7, 2020 05:40:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,096.7867",
+      "description": "United States Dollar",
+      "rate_float": 9096.7867
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,971.5954",
+      "description": "British Pound Sterling",
+      "rate_float": 6971.5954
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,060.0987",
+      "description": "Euro",
+      "rate_float": 8060.0987
+    }
+  },
+  "Mar 7, 2020 05:41:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,094.7733",
+      "description": "United States Dollar",
+      "rate_float": 9094.7733
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,970.0524",
+      "description": "British Pound Sterling",
+      "rate_float": 6970.0524
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,058.3148",
+      "description": "Euro",
+      "rate_float": 8058.3148
+    }
+  },
+  "Mar 7, 2020 05:42:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,094.5767",
+      "description": "United States Dollar",
+      "rate_float": 9094.5767
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,969.9017",
+      "description": "British Pound Sterling",
+      "rate_float": 6969.9017
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,058.1405",
+      "description": "Euro",
+      "rate_float": 8058.1405
+    }
+  },
+  "Mar 7, 2020 05:43:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,094.1950",
+      "description": "United States Dollar",
+      "rate_float": 9094.195
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,969.6092",
+      "description": "British Pound Sterling",
+      "rate_float": 6969.6092
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,057.8023",
+      "description": "Euro",
+      "rate_float": 8057.8023
+    }
+  },
+  "Mar 7, 2020 05:44:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,105.5067",
+      "description": "United States Dollar",
+      "rate_float": 9105.5067
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,978.2782",
+      "description": "British Pound Sterling",
+      "rate_float": 6978.2782
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,067.8249",
+      "description": "Euro",
+      "rate_float": 8067.8249
+    }
+  },
+  "Mar 7, 2020 05:45:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,104.3983",
+      "description": "United States Dollar",
+      "rate_float": 9104.3983
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,977.4288",
+      "description": "British Pound Sterling",
+      "rate_float": 6977.4288
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,066.8429",
+      "description": "Euro",
+      "rate_float": 8066.8429
+    }
+  },
+  "Mar 7, 2020 05:46:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,103.0967",
+      "description": "United States Dollar",
+      "rate_float": 9103.0967
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,976.4312",
+      "description": "British Pound Sterling",
+      "rate_float": 6976.4312
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,065.6896",
+      "description": "Euro",
+      "rate_float": 8065.6896
+    }
+  },
+  "Mar 7, 2020 05:47:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,105.0683",
+      "description": "United States Dollar",
+      "rate_float": 9105.0683
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,977.9423",
+      "description": "British Pound Sterling",
+      "rate_float": 6977.9423
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,067.4365",
+      "description": "Euro",
+      "rate_float": 8067.4365
+    }
+  },
+  "Mar 7, 2020 05:48:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,101.3100",
+      "description": "United States Dollar",
+      "rate_float": 9101.31
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,975.0620",
+      "description": "British Pound Sterling",
+      "rate_float": 6975.062
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,064.1065",
+      "description": "Euro",
+      "rate_float": 8064.1065
+    }
+  },
+  "Mar 7, 2020 05:49:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,102.9100",
+      "description": "United States Dollar",
+      "rate_float": 9102.91
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,976.2882",
+      "description": "British Pound Sterling",
+      "rate_float": 6976.2882
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,065.5242",
+      "description": "Euro",
+      "rate_float": 8065.5242
+    }
+  },
+  "Mar 7, 2020 05:50:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,103.4783",
+      "description": "United States Dollar",
+      "rate_float": 9103.4783
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,976.7237",
+      "description": "British Pound Sterling",
+      "rate_float": 6976.7237
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,066.0277",
+      "description": "Euro",
+      "rate_float": 8066.0277
+    }
+  },
+  "Mar 7, 2020 05:51:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,107.3217",
+      "description": "United States Dollar",
+      "rate_float": 9107.3217
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,979.6692",
+      "description": "British Pound Sterling",
+      "rate_float": 6979.6692
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,069.4331",
+      "description": "Euro",
+      "rate_float": 8069.4331
+    }
+  },
+  "Mar 7, 2020 05:52:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,108.8650",
+      "description": "United States Dollar",
+      "rate_float": 9108.865
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,980.8520",
+      "description": "British Pound Sterling",
+      "rate_float": 6980.852
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,070.8005",
+      "description": "Euro",
+      "rate_float": 8070.8005
+    }
+  },
+  "Mar 7, 2020 05:53:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,108.8850",
+      "description": "United States Dollar",
+      "rate_float": 9108.885
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,980.8673",
+      "description": "British Pound Sterling",
+      "rate_float": 6980.8673
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,070.8182",
+      "description": "Euro",
+      "rate_float": 8070.8182
+    }
+  },
+  "Mar 7, 2020 05:54:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,111.6133",
+      "description": "United States Dollar",
+      "rate_float": 9111.6133
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,982.9582",
+      "description": "British Pound Sterling",
+      "rate_float": 6982.9582
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,073.2357",
+      "description": "Euro",
+      "rate_float": 8073.2357
+    }
+  },
+  "Mar 7, 2020 05:55:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,111.3683",
+      "description": "United States Dollar",
+      "rate_float": 9111.3683
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,982.7705",
+      "description": "British Pound Sterling",
+      "rate_float": 6982.7705
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,073.0186",
+      "description": "Euro",
+      "rate_float": 8073.0186
+    }
+  },
+  "Mar 7, 2020 05:56:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,111.0567",
+      "description": "United States Dollar",
+      "rate_float": 9111.0567
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,982.5316",
+      "description": "British Pound Sterling",
+      "rate_float": 6982.5316
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,072.7424",
+      "description": "Euro",
+      "rate_float": 8072.7424
+    }
+  },
+  "Mar 7, 2020 05:57:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,111.3300",
+      "description": "United States Dollar",
+      "rate_float": 9111.33
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,982.7411",
+      "description": "British Pound Sterling",
+      "rate_float": 6982.7411
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,072.9846",
+      "description": "Euro",
+      "rate_float": 8072.9846
+    }
+  },
+  "Mar 7, 2020 05:58:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,109.5100",
+      "description": "United States Dollar",
+      "rate_float": 9109.51
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,981.3463",
+      "description": "British Pound Sterling",
+      "rate_float": 6981.3463
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,071.3720",
+      "description": "Euro",
+      "rate_float": 8071.372
+    }
+  },
+  "Mar 7, 2020 05:59:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,109.0967",
+      "description": "United States Dollar",
+      "rate_float": 9109.0967
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,981.0295",
+      "description": "British Pound Sterling",
+      "rate_float": 6981.0295
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,071.0058",
+      "description": "Euro",
+      "rate_float": 8071.0058
+    }
+  },
+  "Mar 7, 2020 06:00:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,107.0500",
+      "description": "United States Dollar",
+      "rate_float": 9107.05
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,979.4610",
+      "description": "British Pound Sterling",
+      "rate_float": 6979.461
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,069.1924",
+      "description": "Euro",
+      "rate_float": 8069.1924
+    }
+  },
+  "Mar 7, 2020 06:01:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,111.6117",
+      "description": "United States Dollar",
+      "rate_float": 9111.6117
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,982.9569",
+      "description": "British Pound Sterling",
+      "rate_float": 6982.9569
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,073.2342",
+      "description": "Euro",
+      "rate_float": 8073.2342
+    }
+  },
+  "Mar 7, 2020 06:02:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,112.5583",
+      "description": "United States Dollar",
+      "rate_float": 9112.5583
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,983.6825",
+      "description": "British Pound Sterling",
+      "rate_float": 6983.6825
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,074.0730",
+      "description": "Euro",
+      "rate_float": 8074.073
+    }
+  },
+  "Mar 7, 2020 06:03:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,113.7150",
+      "description": "United States Dollar",
+      "rate_float": 9113.715
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,984.5689",
+      "description": "British Pound Sterling",
+      "rate_float": 6984.5689
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,075.0978",
+      "description": "Euro",
+      "rate_float": 8075.0978
+    }
+  },
+  "Mar 7, 2020 06:04:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,114.4050",
+      "description": "United States Dollar",
+      "rate_float": 9114.405
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,985.0977",
+      "description": "British Pound Sterling",
+      "rate_float": 6985.0977
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,075.7092",
+      "description": "Euro",
+      "rate_float": 8075.7092
+    }
+  },
+  "Mar 7, 2020 06:05:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,117.6250",
+      "description": "United States Dollar",
+      "rate_float": 9117.625
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,986.9546",
+      "description": "British Pound Sterling",
+      "rate_float": 6986.9546
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,078.5622",
+      "description": "Euro",
+      "rate_float": 8078.5622
+    }
+  },
+  "Mar 7, 2020 06:06:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,118.0900",
+      "description": "United States Dollar",
+      "rate_float": 9118.09
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,987.3109",
+      "description": "British Pound Sterling",
+      "rate_float": 6987.3109
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,078.9742",
+      "description": "Euro",
+      "rate_float": 8078.9742
+    }
+  },
+  "Mar 7, 2020 06:07:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,118.9983",
+      "description": "United States Dollar",
+      "rate_float": 9118.9983
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,988.0070",
+      "description": "British Pound Sterling",
+      "rate_float": 6988.007
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,079.7790",
+      "description": "Euro",
+      "rate_float": 8079.779
+    }
+  },
+  "Mar 7, 2020 06:08:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,119.6283",
+      "description": "United States Dollar",
+      "rate_float": 9119.6283
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,988.4897",
+      "description": "British Pound Sterling",
+      "rate_float": 6988.4897
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,080.3372",
+      "description": "Euro",
+      "rate_float": 8080.3372
+    }
+  },
+  "Mar 7, 2020 06:09:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,117.2567",
+      "description": "United States Dollar",
+      "rate_float": 9117.2567
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,986.6723",
+      "description": "British Pound Sterling",
+      "rate_float": 6986.6723
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,078.2359",
+      "description": "Euro",
+      "rate_float": 8078.2359
+    }
+  },
+  "Mar 7, 2020 06:10:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,113.6567",
+      "description": "United States Dollar",
+      "rate_float": 9113.6567
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,983.9136",
+      "description": "British Pound Sterling",
+      "rate_float": 6983.9136
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,075.0461",
+      "description": "Euro",
+      "rate_float": 8075.0461
+    }
+  },
+  "Mar 7, 2020 06:11:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,114.2750",
+      "description": "United States Dollar",
+      "rate_float": 9114.275
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,984.3874",
+      "description": "British Pound Sterling",
+      "rate_float": 6984.3874
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,075.5940",
+      "description": "Euro",
+      "rate_float": 8075.594
+    }
+  },
+  "Mar 7, 2020 06:12:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,116.8767",
+      "description": "United States Dollar",
+      "rate_float": 9116.8767
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,986.3811",
+      "description": "British Pound Sterling",
+      "rate_float": 6986.3811
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,077.8992",
+      "description": "Euro",
+      "rate_float": 8077.8992
+    }
+  },
+  "Mar 7, 2020 06:13:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,115.3833",
+      "description": "United States Dollar",
+      "rate_float": 9115.3833
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,985.2367",
+      "description": "British Pound Sterling",
+      "rate_float": 6985.2367
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,076.5760",
+      "description": "Euro",
+      "rate_float": 8076.576
+    }
+  },
+  "Mar 7, 2020 06:14:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,116.7517",
+      "description": "United States Dollar",
+      "rate_float": 9116.7517
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,986.2853",
+      "description": "British Pound Sterling",
+      "rate_float": 6986.2853
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,077.7884",
+      "description": "Euro",
+      "rate_float": 8077.7884
+    }
+  },
+  "Mar 7, 2020 06:15:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,117.1167",
+      "description": "United States Dollar",
+      "rate_float": 9117.1167
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,986.5650",
+      "description": "British Pound Sterling",
+      "rate_float": 6986.565
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,078.1118",
+      "description": "Euro",
+      "rate_float": 8078.1118
+    }
+  },
+  "Mar 7, 2020 06:16:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,113.1600",
+      "description": "United States Dollar",
+      "rate_float": 9113.16
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,983.5330",
+      "description": "British Pound Sterling",
+      "rate_float": 6983.533
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,074.6061",
+      "description": "Euro",
+      "rate_float": 8074.6061
+    }
+  },
+  "Mar 7, 2020 06:17:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,115.3733",
+      "description": "United States Dollar",
+      "rate_float": 9115.3733
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,985.2291",
+      "description": "British Pound Sterling",
+      "rate_float": 6985.2291
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,076.5672",
+      "description": "Euro",
+      "rate_float": 8076.5672
+    }
+  },
+  "Mar 7, 2020 06:18:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,118.0250",
+      "description": "United States Dollar",
+      "rate_float": 9118.025
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,987.2611",
+      "description": "British Pound Sterling",
+      "rate_float": 6987.2611
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,078.9166",
+      "description": "Euro",
+      "rate_float": 8078.9166
+    }
+  },
+  "Mar 7, 2020 06:19:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,117.8600",
+      "description": "United States Dollar",
+      "rate_float": 9117.86
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,987.1347",
+      "description": "British Pound Sterling",
+      "rate_float": 6987.1347
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,078.7704",
+      "description": "Euro",
+      "rate_float": 8078.7704
+    }
+  },
+  "Mar 7, 2020 06:20:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,117.6800",
+      "description": "United States Dollar",
+      "rate_float": 9117.68
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,986.9967",
+      "description": "British Pound Sterling",
+      "rate_float": 6986.9967
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,078.6110",
+      "description": "Euro",
+      "rate_float": 8078.611
+    }
+  },
+  "Mar 7, 2020 06:21:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,124.5117",
+      "description": "United States Dollar",
+      "rate_float": 9124.5117
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,992.2319",
+      "description": "British Pound Sterling",
+      "rate_float": 6992.2319
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,084.6641",
+      "description": "Euro",
+      "rate_float": 8084.6641
+    }
+  },
+  "Mar 7, 2020 06:22:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,123.1567",
+      "description": "United States Dollar",
+      "rate_float": 9123.1567
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,991.1936",
+      "description": "British Pound Sterling",
+      "rate_float": 6991.1936
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,083.4635",
+      "description": "Euro",
+      "rate_float": 8083.4635
+    }
+  },
+  "Mar 7, 2020 06:23:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,121.6050",
+      "description": "United States Dollar",
+      "rate_float": 9121.605
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,990.0045",
+      "description": "British Pound Sterling",
+      "rate_float": 6990.0045
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,082.0887",
+      "description": "Euro",
+      "rate_float": 8082.0887
+    }
+  },
+  "Mar 7, 2020 06:24:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,121.0750",
+      "description": "United States Dollar",
+      "rate_float": 9121.075
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,989.5983",
+      "description": "British Pound Sterling",
+      "rate_float": 6989.5983
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,081.6191",
+      "description": "Euro",
+      "rate_float": 8081.6191
+    }
+  },
+  "Mar 7, 2020 06:25:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,118.9067",
+      "description": "United States Dollar",
+      "rate_float": 9118.9067
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,987.9367",
+      "description": "British Pound Sterling",
+      "rate_float": 6987.9367
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,079.6978",
+      "description": "Euro",
+      "rate_float": 8079.6978
+    }
+  },
+  "Mar 7, 2020 06:26:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,118.7950",
+      "description": "United States Dollar",
+      "rate_float": 9118.795
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,987.8512",
+      "description": "British Pound Sterling",
+      "rate_float": 6987.8512
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,079.5989",
+      "description": "Euro",
+      "rate_float": 8079.5989
+    }
+  },
+  "Mar 7, 2020 06:27:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,116.1317",
+      "description": "United States Dollar",
+      "rate_float": 9116.1317
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,985.8102",
+      "description": "British Pound Sterling",
+      "rate_float": 6985.8102
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,077.2391",
+      "description": "Euro",
+      "rate_float": 8077.2391
+    }
+  },
+  "Mar 7, 2020 06:28:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,116.2533",
+      "description": "United States Dollar",
+      "rate_float": 9116.2533
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,985.9034",
+      "description": "British Pound Sterling",
+      "rate_float": 6985.9034
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,077.3469",
+      "description": "Euro",
+      "rate_float": 8077.3469
+    }
+  },
+  "Mar 7, 2020 06:29:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,115.8583",
+      "description": "United States Dollar",
+      "rate_float": 9115.8583
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,985.6007",
+      "description": "British Pound Sterling",
+      "rate_float": 6985.6007
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,076.9969",
+      "description": "Euro",
+      "rate_float": 8076.9969
+    }
+  },
+  "Mar 7, 2020 06:30:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,114.8717",
+      "description": "United States Dollar",
+      "rate_float": 9114.8717
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,984.8447",
+      "description": "British Pound Sterling",
+      "rate_float": 6984.8447
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,076.1227",
+      "description": "Euro",
+      "rate_float": 8076.1227
+    }
+  },
+  "Mar 7, 2020 06:31:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,114.6000",
+      "description": "United States Dollar",
+      "rate_float": 9114.6
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,984.6365",
+      "description": "British Pound Sterling",
+      "rate_float": 6984.6365
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,075.8820",
+      "description": "Euro",
+      "rate_float": 8075.882
+    }
+  },
+  "Mar 7, 2020 06:32:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,115.4283",
+      "description": "United States Dollar",
+      "rate_float": 9115.4283
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,985.2712",
+      "description": "British Pound Sterling",
+      "rate_float": 6985.2712
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,076.6159",
+      "description": "Euro",
+      "rate_float": 8076.6159
+    }
+  },
+  "Mar 7, 2020 06:33:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,118.1767",
+      "description": "United States Dollar",
+      "rate_float": 9118.1767
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,987.3773",
+      "description": "British Pound Sterling",
+      "rate_float": 6987.3773
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,079.0510",
+      "description": "Euro",
+      "rate_float": 8079.051
+    }
+  },
+  "Mar 7, 2020 06:34:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,122.3467",
+      "description": "United States Dollar",
+      "rate_float": 9122.3467
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,990.5728",
+      "description": "British Pound Sterling",
+      "rate_float": 6990.5728
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,082.7458",
+      "description": "Euro",
+      "rate_float": 8082.7458
+    }
+  },
+  "Mar 7, 2020 06:35:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,115.6917",
+      "description": "United States Dollar",
+      "rate_float": 9115.6917
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,985.4730",
+      "description": "British Pound Sterling",
+      "rate_float": 6985.473
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,076.8492",
+      "description": "Euro",
+      "rate_float": 8076.8492
+    }
+  },
+  "Mar 7, 2020 06:36:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,111.4483",
+      "description": "United States Dollar",
+      "rate_float": 9111.4483
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,982.2213",
+      "description": "British Pound Sterling",
+      "rate_float": 6982.2213
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,073.0895",
+      "description": "Euro",
+      "rate_float": 8073.0895
+    }
+  },
+  "Mar 7, 2020 06:37:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,110.2833",
+      "description": "United States Dollar",
+      "rate_float": 9110.2833
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,981.3286",
+      "description": "British Pound Sterling",
+      "rate_float": 6981.3286
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,072.0572",
+      "description": "Euro",
+      "rate_float": 8072.0572
+    }
+  },
+  "Mar 7, 2020 06:38:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,109.6000",
+      "description": "United States Dollar",
+      "rate_float": 9109.6
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,980.8049",
+      "description": "British Pound Sterling",
+      "rate_float": 6980.8049
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,071.4518",
+      "description": "Euro",
+      "rate_float": 8071.4518
+    }
+  },
+  "Mar 7, 2020 06:39:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,107.6100",
+      "description": "United States Dollar",
+      "rate_float": 9107.61
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,979.2799",
+      "description": "British Pound Sterling",
+      "rate_float": 6979.2799
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,069.6885",
+      "description": "Euro",
+      "rate_float": 8069.6885
+    }
+  },
+  "Mar 7, 2020 06:40:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,113.4917",
+      "description": "United States Dollar",
+      "rate_float": 9113.4917
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,983.7871",
+      "description": "British Pound Sterling",
+      "rate_float": 6983.7871
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,074.8999",
+      "description": "Euro",
+      "rate_float": 8074.8999
+    }
+  },
+  "Mar 7, 2020 06:41:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,109.5717",
+      "description": "United States Dollar",
+      "rate_float": 9109.5717
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,980.7832",
+      "description": "British Pound Sterling",
+      "rate_float": 6980.7832
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,071.4267",
+      "description": "Euro",
+      "rate_float": 8071.4267
+    }
+  },
+  "Mar 7, 2020 06:42:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,108.4733",
+      "description": "United States Dollar",
+      "rate_float": 9108.4733
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,979.9415",
+      "description": "British Pound Sterling",
+      "rate_float": 6979.9415
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,070.4535",
+      "description": "Euro",
+      "rate_float": 8070.4535
+    }
+  },
+  "Mar 7, 2020 06:43:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,107.9717",
+      "description": "United States Dollar",
+      "rate_float": 9107.9717
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,979.5571",
+      "description": "British Pound Sterling",
+      "rate_float": 6979.5571
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,070.0090",
+      "description": "Euro",
+      "rate_float": 8070.009
+    }
+  },
+  "Mar 7, 2020 06:44:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,110.3933",
+      "description": "United States Dollar",
+      "rate_float": 9110.3933
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,981.4128",
+      "description": "British Pound Sterling",
+      "rate_float": 6981.4128
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,072.1547",
+      "description": "Euro",
+      "rate_float": 8072.1547
+    }
+  },
+  "Mar 7, 2020 06:45:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,114.0800",
+      "description": "United States Dollar",
+      "rate_float": 9114.08
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,984.2380",
+      "description": "British Pound Sterling",
+      "rate_float": 6984.238
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,075.4212",
+      "description": "Euro",
+      "rate_float": 8075.4212
+    }
+  },
+  "Mar 7, 2020 06:46:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,113.6050",
+      "description": "United States Dollar",
+      "rate_float": 9113.605
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,983.8740",
+      "description": "British Pound Sterling",
+      "rate_float": 6983.874
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,075.0003",
+      "description": "Euro",
+      "rate_float": 8075.0003
+    }
+  },
+  "Mar 7, 2020 06:47:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,105.2117",
+      "description": "United States Dollar",
+      "rate_float": 9105.2117
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,977.4421",
+      "description": "British Pound Sterling",
+      "rate_float": 6977.4421
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,067.5635",
+      "description": "Euro",
+      "rate_float": 8067.5635
+    }
+  },
+  "Mar 7, 2020 06:48:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,103.8917",
+      "description": "United States Dollar",
+      "rate_float": 9103.8917
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,976.4305",
+      "description": "British Pound Sterling",
+      "rate_float": 6976.4305
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,066.3940",
+      "description": "Euro",
+      "rate_float": 8066.394
+    }
+  },
+  "Mar 7, 2020 06:49:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,105.6867",
+      "description": "United States Dollar",
+      "rate_float": 9105.6867
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,977.8061",
+      "description": "British Pound Sterling",
+      "rate_float": 6977.8061
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,067.9844",
+      "description": "Euro",
+      "rate_float": 8067.9844
+    }
+  },
+  "Mar 7, 2020 06:50:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,104.8917",
+      "description": "United States Dollar",
+      "rate_float": 9104.8917
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,977.1968",
+      "description": "British Pound Sterling",
+      "rate_float": 6977.1968
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,067.2800",
+      "description": "Euro",
+      "rate_float": 8067.28
+    }
+  },
+  "Mar 7, 2020 06:51:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,104.6450",
+      "description": "United States Dollar",
+      "rate_float": 9104.645
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,977.0078",
+      "description": "British Pound Sterling",
+      "rate_float": 6977.0078
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,067.0614",
+      "description": "Euro",
+      "rate_float": 8067.0614
+    }
+  },
+  "Mar 7, 2020 06:52:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,106.1900",
+      "description": "United States Dollar",
+      "rate_float": 9106.19
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,978.1918",
+      "description": "British Pound Sterling",
+      "rate_float": 6978.1918
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,068.4304",
+      "description": "Euro",
+      "rate_float": 8068.4304
+    }
+  },
+  "Mar 7, 2020 06:53:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,107.7833",
+      "description": "United States Dollar",
+      "rate_float": 9107.7833
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,979.4128",
+      "description": "British Pound Sterling",
+      "rate_float": 6979.4128
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,069.8421",
+      "description": "Euro",
+      "rate_float": 8069.8421
+    }
+  },
+  "Mar 7, 2020 06:54:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,106.0700",
+      "description": "United States Dollar",
+      "rate_float": 9106.07
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,978.0998",
+      "description": "British Pound Sterling",
+      "rate_float": 6978.0998
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,068.3241",
+      "description": "Euro",
+      "rate_float": 8068.3241
+    }
+  },
+  "Mar 7, 2020 06:55:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,105.9683",
+      "description": "United States Dollar",
+      "rate_float": 9105.9683
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,978.0219",
+      "description": "British Pound Sterling",
+      "rate_float": 6978.0219
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,068.2340",
+      "description": "Euro",
+      "rate_float": 8068.234
+    }
+  },
+  "Mar 7, 2020 06:56:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,105.9667",
+      "description": "United States Dollar",
+      "rate_float": 9105.9667
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,978.0206",
+      "description": "British Pound Sterling",
+      "rate_float": 6978.0206
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,068.2325",
+      "description": "Euro",
+      "rate_float": 8068.2325
+    }
+  },
+  "Mar 7, 2020 06:57:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,105.9667",
+      "description": "United States Dollar",
+      "rate_float": 9105.9667
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,978.0206",
+      "description": "British Pound Sterling",
+      "rate_float": 6978.0206
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,068.2325",
+      "description": "Euro",
+      "rate_float": 8068.2325
+    }
+  },
+  "Mar 7, 2020 06:58:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,100.6717",
+      "description": "United States Dollar",
+      "rate_float": 9100.6717
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,973.9630",
+      "description": "British Pound Sterling",
+      "rate_float": 6973.963
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,063.5409",
+      "description": "Euro",
+      "rate_float": 8063.5409
+    }
+  },
+  "Mar 7, 2020 06:59:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,101.6683",
+      "description": "United States Dollar",
+      "rate_float": 9101.6683
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,974.7268",
+      "description": "British Pound Sterling",
+      "rate_float": 6974.7268
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,064.4240",
+      "description": "Euro",
+      "rate_float": 8064.424
+    }
+  },
+  "Mar 7, 2020 07:00:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,100.4083",
+      "description": "United States Dollar",
+      "rate_float": 9100.4083
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,973.7612",
+      "description": "British Pound Sterling",
+      "rate_float": 6973.7612
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,063.3076",
+      "description": "Euro",
+      "rate_float": 8063.3076
+    }
+  },
+  "Mar 7, 2020 07:01:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,099.0467",
+      "description": "United States Dollar",
+      "rate_float": 9099.0467
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,972.7177",
+      "description": "British Pound Sterling",
+      "rate_float": 6972.7177
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,062.1011",
+      "description": "Euro",
+      "rate_float": 8062.1011
+    }
+  },
+  "Mar 7, 2020 07:02:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,099.0267",
+      "description": "United States Dollar",
+      "rate_float": 9099.0267
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,972.7024",
+      "description": "British Pound Sterling",
+      "rate_float": 6972.7024
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,062.0834",
+      "description": "Euro",
+      "rate_float": 8062.0834
+    }
+  },
+  "Mar 7, 2020 07:03:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,092.2867",
+      "description": "United States Dollar",
+      "rate_float": 9092.2867
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,967.5375",
+      "description": "British Pound Sterling",
+      "rate_float": 6967.5375
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,056.1115",
+      "description": "Euro",
+      "rate_float": 8056.1115
+    }
+  },
+  "Mar 7, 2020 07:04:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,092.6900",
+      "description": "United States Dollar",
+      "rate_float": 9092.69
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,967.8466",
+      "description": "British Pound Sterling",
+      "rate_float": 6967.8466
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,056.4689",
+      "description": "Euro",
+      "rate_float": 8056.4689
+    }
+  },
+  "Mar 7, 2020 07:05:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,099.2633",
+      "description": "United States Dollar",
+      "rate_float": 9099.2633
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,972.8838",
+      "description": "British Pound Sterling",
+      "rate_float": 6972.8838
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,062.2931",
+      "description": "Euro",
+      "rate_float": 8062.2931
+    }
+  },
+  "Mar 7, 2020 07:06:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,102.0433",
+      "description": "United States Dollar",
+      "rate_float": 9102.0433
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,975.0141",
+      "description": "British Pound Sterling",
+      "rate_float": 6975.0141
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,064.7563",
+      "description": "Euro",
+      "rate_float": 8064.7563
+    }
+  },
+  "Mar 7, 2020 07:07:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,101.5467",
+      "description": "United States Dollar",
+      "rate_float": 9101.5467
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,974.6335",
+      "description": "British Pound Sterling",
+      "rate_float": 6974.6335
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,064.3162",
+      "description": "Euro",
+      "rate_float": 8064.3162
+    }
+  },
+  "Mar 7, 2020 07:08:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,100.9583",
+      "description": "United States Dollar",
+      "rate_float": 9100.9583
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,974.1827",
+      "description": "British Pound Sterling",
+      "rate_float": 6974.1827
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,063.7949",
+      "description": "Euro",
+      "rate_float": 8063.7949
+    }
+  },
+  "Mar 7, 2020 07:09:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,101.4850",
+      "description": "United States Dollar",
+      "rate_float": 9101.485
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,974.5863",
+      "description": "British Pound Sterling",
+      "rate_float": 6974.5863
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,064.2616",
+      "description": "Euro",
+      "rate_float": 8064.2616
+    }
+  },
+  "Mar 7, 2020 07:10:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,093.8950",
+      "description": "United States Dollar",
+      "rate_float": 9093.895
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,968.7700",
+      "description": "British Pound Sterling",
+      "rate_float": 6968.77
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,057.5365",
+      "description": "Euro",
+      "rate_float": 8057.5365
+    }
+  },
+  "Mar 7, 2020 07:11:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,083.7117",
+      "description": "United States Dollar",
+      "rate_float": 9083.7117
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,960.9663",
+      "description": "British Pound Sterling",
+      "rate_float": 6960.9663
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,048.5137",
+      "description": "Euro",
+      "rate_float": 8048.5137
+    }
+  },
+  "Mar 7, 2020 07:12:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,083.7483",
+      "description": "United States Dollar",
+      "rate_float": 9083.7483
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,960.9944",
+      "description": "British Pound Sterling",
+      "rate_float": 6960.9944
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,048.5462",
+      "description": "Euro",
+      "rate_float": 8048.5462
+    }
+  },
+  "Mar 7, 2020 07:13:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,084.5417",
+      "description": "United States Dollar",
+      "rate_float": 9084.5417
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,961.6024",
+      "description": "British Pound Sterling",
+      "rate_float": 6961.6024
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,049.2491",
+      "description": "Euro",
+      "rate_float": 8049.2491
+    }
+  },
+  "Mar 7, 2020 07:14:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,084.8333",
+      "description": "United States Dollar",
+      "rate_float": 9084.8333
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,961.8259",
+      "description": "British Pound Sterling",
+      "rate_float": 6961.8259
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,049.5076",
+      "description": "Euro",
+      "rate_float": 8049.5076
+    }
+  },
+  "Mar 7, 2020 07:15:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,082.5833",
+      "description": "United States Dollar",
+      "rate_float": 9082.5833
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,960.1017",
+      "description": "British Pound Sterling",
+      "rate_float": 6960.1017
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,047.5140",
+      "description": "Euro",
+      "rate_float": 8047.514
+    }
+  },
+  "Mar 7, 2020 07:16:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,086.4750",
+      "description": "United States Dollar",
+      "rate_float": 9086.475
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,963.0839",
+      "description": "British Pound Sterling",
+      "rate_float": 6963.0839
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,050.9621",
+      "description": "Euro",
+      "rate_float": 8050.9621
+    }
+  },
+  "Mar 7, 2020 07:17:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,086.8967",
+      "description": "United States Dollar",
+      "rate_float": 9086.8967
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,963.4070",
+      "description": "British Pound Sterling",
+      "rate_float": 6963.407
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,051.3357",
+      "description": "Euro",
+      "rate_float": 8051.3357
+    }
+  },
+  "Mar 7, 2020 07:18:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,086.6983",
+      "description": "United States Dollar",
+      "rate_float": 9086.6983
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,963.2551",
+      "description": "British Pound Sterling",
+      "rate_float": 6963.2551
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,051.1600",
+      "description": "Euro",
+      "rate_float": 8051.16
+    }
+  },
+  "Mar 7, 2020 07:19:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,086.7650",
+      "description": "United States Dollar",
+      "rate_float": 9086.765
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,963.3061",
+      "description": "British Pound Sterling",
+      "rate_float": 6963.3061
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,051.2191",
+      "description": "Euro",
+      "rate_float": 8051.2191
+    }
+  },
+  "Mar 7, 2020 07:20:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,088.0383",
+      "description": "United States Dollar",
+      "rate_float": 9088.0383
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,964.2819",
+      "description": "British Pound Sterling",
+      "rate_float": 6964.2819
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,052.3473",
+      "description": "Euro",
+      "rate_float": 8052.3473
+    }
+  },
+  "Mar 7, 2020 07:21:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,089.5350",
+      "description": "United States Dollar",
+      "rate_float": 9089.535
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,965.4288",
+      "description": "British Pound Sterling",
+      "rate_float": 6965.4288
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,053.6734",
+      "description": "Euro",
+      "rate_float": 8053.6734
+    }
+  },
+  "Mar 7, 2020 07:22:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,089.9750",
+      "description": "United States Dollar",
+      "rate_float": 9089.975
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,965.7660",
+      "description": "British Pound Sterling",
+      "rate_float": 6965.766
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,054.0633",
+      "description": "Euro",
+      "rate_float": 8054.0633
+    }
+  },
+  "Mar 7, 2020 07:23:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,090.1183",
+      "description": "United States Dollar",
+      "rate_float": 9090.1183
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,965.8759",
+      "description": "British Pound Sterling",
+      "rate_float": 6965.8759
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,054.1903",
+      "description": "Euro",
+      "rate_float": 8054.1903
+    }
+  },
+  "Mar 7, 2020 07:24:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,089.8550",
+      "description": "United States Dollar",
+      "rate_float": 9089.855
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,965.6741",
+      "description": "British Pound Sterling",
+      "rate_float": 6965.6741
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,053.9569",
+      "description": "Euro",
+      "rate_float": 8053.9569
+    }
+  },
+  "Mar 7, 2020 07:25:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,088.8317",
+      "description": "United States Dollar",
+      "rate_float": 9088.8317
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,964.8899",
+      "description": "British Pound Sterling",
+      "rate_float": 6964.8899
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,053.0502",
+      "description": "Euro",
+      "rate_float": 8053.0502
+    }
+  },
+  "Mar 7, 2020 07:26:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,092.3550",
+      "description": "United States Dollar",
+      "rate_float": 9092.355
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,967.5898",
+      "description": "British Pound Sterling",
+      "rate_float": 6967.5898
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,056.1720",
+      "description": "Euro",
+      "rate_float": 8056.172
+    }
+  },
+  "Mar 7, 2020 07:27:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,093.5850",
+      "description": "United States Dollar",
+      "rate_float": 9093.585
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,968.5324",
+      "description": "British Pound Sterling",
+      "rate_float": 6968.5324
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,057.2619",
+      "description": "Euro",
+      "rate_float": 8057.2619
+    }
+  },
+  "Mar 7, 2020 07:28:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,097.0967",
+      "description": "United States Dollar",
+      "rate_float": 9097.0967
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,971.2234",
+      "description": "British Pound Sterling",
+      "rate_float": 6971.2234
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,060.3733",
+      "description": "Euro",
+      "rate_float": 8060.3733
+    }
+  },
+  "Mar 7, 2020 07:29:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,097.8600",
+      "description": "United States Dollar",
+      "rate_float": 9097.86
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,971.8084",
+      "description": "British Pound Sterling",
+      "rate_float": 6971.8084
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,061.0497",
+      "description": "Euro",
+      "rate_float": 8061.0497
+    }
+  },
+  "Mar 7, 2020 07:30:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,107.1717",
+      "description": "United States Dollar",
+      "rate_float": 9107.1717
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,978.9440",
+      "description": "British Pound Sterling",
+      "rate_float": 6978.944
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,069.3002",
+      "description": "Euro",
+      "rate_float": 8069.3002
+    }
+  },
+  "Mar 7, 2020 07:31:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,102.6867",
+      "description": "United States Dollar",
+      "rate_float": 9102.6867
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,975.5071",
+      "description": "British Pound Sterling",
+      "rate_float": 6975.5071
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,065.3263",
+      "description": "Euro",
+      "rate_float": 8065.3263
+    }
+  },
+  "Mar 7, 2020 07:32:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,102.2133",
+      "description": "United States Dollar",
+      "rate_float": 9102.2133
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,975.1444",
+      "description": "British Pound Sterling",
+      "rate_float": 6975.1444
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,064.9069",
+      "description": "Euro",
+      "rate_float": 8064.9069
+    }
+  },
+  "Mar 7, 2020 07:33:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,105.3817",
+      "description": "United States Dollar",
+      "rate_float": 9105.3817
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,977.5723",
+      "description": "British Pound Sterling",
+      "rate_float": 6977.5723
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,067.7142",
+      "description": "Euro",
+      "rate_float": 8067.7142
+    }
+  },
+  "Mar 7, 2020 07:34:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,103.5067",
+      "description": "United States Dollar",
+      "rate_float": 9103.5067
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,976.1355",
+      "description": "British Pound Sterling",
+      "rate_float": 6976.1355
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,066.0528",
+      "description": "Euro",
+      "rate_float": 8066.0528
+    }
+  },
+  "Mar 7, 2020 07:35:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,102.2233",
+      "description": "United States Dollar",
+      "rate_float": 9102.2233
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,975.1521",
+      "description": "British Pound Sterling",
+      "rate_float": 6975.1521
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,064.9158",
+      "description": "Euro",
+      "rate_float": 8064.9158
+    }
+  },
+  "Mar 7, 2020 07:36:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,102.0867",
+      "description": "United States Dollar",
+      "rate_float": 9102.0867
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,975.0473",
+      "description": "British Pound Sterling",
+      "rate_float": 6975.0473
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,064.7947",
+      "description": "Euro",
+      "rate_float": 8064.7947
+    }
+  },
+  "Mar 7, 2020 07:37:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,099.3267",
+      "description": "United States Dollar",
+      "rate_float": 9099.3267
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,972.9323",
+      "description": "British Pound Sterling",
+      "rate_float": 6972.9323
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,062.3492",
+      "description": "Euro",
+      "rate_float": 8062.3492
+    }
+  },
+  "Mar 7, 2020 07:38:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,098.0250",
+      "description": "United States Dollar",
+      "rate_float": 9098.025
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,971.9348",
+      "description": "British Pound Sterling",
+      "rate_float": 6971.9348
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,061.1959",
+      "description": "Euro",
+      "rate_float": 8061.1959
+    }
+  },
+  "Mar 7, 2020 07:39:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,098.0350",
+      "description": "United States Dollar",
+      "rate_float": 9098.035
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,971.9425",
+      "description": "British Pound Sterling",
+      "rate_float": 6971.9425
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,061.2047",
+      "description": "Euro",
+      "rate_float": 8061.2047
+    }
+  },
+  "Mar 7, 2020 07:40:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,097.1233",
+      "description": "United States Dollar",
+      "rate_float": 9097.1233
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,971.2439",
+      "description": "British Pound Sterling",
+      "rate_float": 6971.2439
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,060.3970",
+      "description": "Euro",
+      "rate_float": 8060.397
+    }
+  },
+  "Mar 7, 2020 07:41:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,099.4833",
+      "description": "United States Dollar",
+      "rate_float": 9099.4833
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,973.0524",
+      "description": "British Pound Sterling",
+      "rate_float": 6973.0524
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,062.4880",
+      "description": "Euro",
+      "rate_float": 8062.488
+    }
+  },
+  "Mar 7, 2020 07:42:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,098.1367",
+      "description": "United States Dollar",
+      "rate_float": 9098.1367
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,972.0204",
+      "description": "British Pound Sterling",
+      "rate_float": 6972.0204
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,061.2948",
+      "description": "Euro",
+      "rate_float": 8061.2948
+    }
+  },
+  "Mar 7, 2020 07:43:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,099.6067",
+      "description": "United States Dollar",
+      "rate_float": 9099.6067
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,973.1469",
+      "description": "British Pound Sterling",
+      "rate_float": 6973.1469
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,062.5973",
+      "description": "Euro",
+      "rate_float": 8062.5973
+    }
+  },
+  "Mar 7, 2020 07:44:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,100.1067",
+      "description": "United States Dollar",
+      "rate_float": 9100.1067
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,973.5300",
+      "description": "British Pound Sterling",
+      "rate_float": 6973.53
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,063.0403",
+      "description": "Euro",
+      "rate_float": 8063.0403
+    }
+  },
+  "Mar 7, 2020 07:45:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,102.8983",
+      "description": "United States Dollar",
+      "rate_float": 9102.8983
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,975.6693",
+      "description": "British Pound Sterling",
+      "rate_float": 6975.6693
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,065.5138",
+      "description": "Euro",
+      "rate_float": 8065.5138
+    }
+  },
+  "Mar 7, 2020 07:46:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,106.2733",
+      "description": "United States Dollar",
+      "rate_float": 9106.2733
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,978.2556",
+      "description": "British Pound Sterling",
+      "rate_float": 6978.2556
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,068.5042",
+      "description": "Euro",
+      "rate_float": 8068.5042
+    }
+  },
+  "Mar 7, 2020 07:47:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,109.4667",
+      "description": "United States Dollar",
+      "rate_float": 9109.4667
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,980.7027",
+      "description": "British Pound Sterling",
+      "rate_float": 6980.7027
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,071.3336",
+      "description": "Euro",
+      "rate_float": 8071.3336
+    }
+  },
+  "Mar 7, 2020 07:48:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,111.1383",
+      "description": "United States Dollar",
+      "rate_float": 9111.1383
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,981.9837",
+      "description": "British Pound Sterling",
+      "rate_float": 6981.9837
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,072.8148",
+      "description": "Euro",
+      "rate_float": 8072.8148
+    }
+  },
+  "Mar 7, 2020 07:49:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,108.6117",
+      "description": "United States Dollar",
+      "rate_float": 9108.6117
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,980.0475",
+      "description": "British Pound Sterling",
+      "rate_float": 6980.0475
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,070.5761",
+      "description": "Euro",
+      "rate_float": 8070.5761
+    }
+  },
+  "Mar 7, 2020 07:50:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,108.4333",
+      "description": "United States Dollar",
+      "rate_float": 9108.4333
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,979.9109",
+      "description": "British Pound Sterling",
+      "rate_float": 6979.9109
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,070.4181",
+      "description": "Euro",
+      "rate_float": 8070.4181
+    }
+  },
+  "Mar 7, 2020 07:51:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,110.9467",
+      "description": "United States Dollar",
+      "rate_float": 9110.9467
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,981.8369",
+      "description": "British Pound Sterling",
+      "rate_float": 6981.8369
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,072.6450",
+      "description": "Euro",
+      "rate_float": 8072.645
+    }
+  },
+  "Mar 7, 2020 07:52:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,110.5983",
+      "description": "United States Dollar",
+      "rate_float": 9110.5983
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,981.5699",
+      "description": "British Pound Sterling",
+      "rate_float": 6981.5699
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,072.3363",
+      "description": "Euro",
+      "rate_float": 8072.3363
+    }
+  },
+  "Mar 7, 2020 07:53:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,110.8133",
+      "description": "United States Dollar",
+      "rate_float": 9110.8133
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,981.7347",
+      "description": "British Pound Sterling",
+      "rate_float": 6981.7347
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,072.5268",
+      "description": "Euro",
+      "rate_float": 8072.5268
+    }
+  },
+  "Mar 7, 2020 07:54:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,107.7567",
+      "description": "United States Dollar",
+      "rate_float": 9107.7567
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,979.3923",
+      "description": "British Pound Sterling",
+      "rate_float": 6979.3923
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,069.8185",
+      "description": "Euro",
+      "rate_float": 8069.8185
+    }
+  },
+  "Mar 7, 2020 07:55:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,108.3100",
+      "description": "United States Dollar",
+      "rate_float": 9108.31
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,979.8164",
+      "description": "British Pound Sterling",
+      "rate_float": 6979.8164
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,070.3088",
+      "description": "Euro",
+      "rate_float": 8070.3088
+    }
+  },
+  "Mar 7, 2020 07:56:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,119.2417",
+      "description": "United States Dollar",
+      "rate_float": 9119.2417
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,988.1934",
+      "description": "British Pound Sterling",
+      "rate_float": 6988.1934
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,079.9946",
+      "description": "Euro",
+      "rate_float": 8079.9946
+    }
+  },
+  "Mar 7, 2020 07:57:00 UTC": {
+    "USD": {
+      "code": "USD",
+      "symbol": "&#36;",
+      "rate": "9,118.6217",
+      "description": "United States Dollar",
+      "rate_float": 9118.6217
+    },
+    "GBP": {
+      "code": "GBP",
+      "symbol": "&pound;",
+      "rate": "6,987.7183",
+      "description": "British Pound Sterling",
+      "rate_float": 6987.7183
+    },
+    "EUR": {
+      "code": "EUR",
+      "symbol": "&euro;",
+      "rate": "8,079.4453",
+      "description": "Euro",
+      "rate_float": 8079.4453
+    }
+  }
+}

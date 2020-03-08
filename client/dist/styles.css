@@ -1,0 +1,23 @@
+.chart-container {
+  width: 600px;
+  /* margin-left: 50%; */
+  /* height: 600px; */
+}
+
+body {
+  background-color: #030e21;
+  font-family: "Oxanium", cursive;
+  color: rgb(236, 236, 238);
+}
+
+.enter {
+  color: #2dce98;
+}
+
+.update {
+  color: white;
+}
+
+.exit {
+  color: #e72fbe;
+}
