@@ -12,12 +12,30 @@ body {
 
 .enter {
   color: #2dce98;
+  font-size: 1.5rem;
 }
 
 .update {
   color: white;
+  font-size: 1.5rem;
 }
 
 .exit {
   color: #e72fbe;
+  font-size: 1.5rem;
+}
+
+.viewBtn {
+  cursor: pointer;
+  /* padding-left: 0px; */
+  margin-right: 6%;
+  text-align: center;
+}
+
+.stats {
+  font-size: 13px;
+}
+
+.caption {
+  color: #88888a;
 }

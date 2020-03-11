@@ -5,42 +5,107 @@ import axios from "axios";
 import LineGraph from "./LineGraph.jsx";
 import ViewButtons from "./ViewButtons.jsx";
 import Price from "./Price.jsx";
-import _ from "lodash";
+import Stats from "./Stats.jsx";
+import date from "date-and-time";
+import commaNumber from "comma-number";
 
 const Chart = props => {
   const [liveData, setLiveData] = useState({});
   const [livePrice, setLivePrice] = useState(null);
+  const [historicalData, setHistoricalData] = useState({});
+  const [currentView, setCurrentView] = useState("live");
 
-  // const [hoveredPrice, setHoveredPrice] = useState(null);
-
-  // https://api.coindesk.com/v1/bpi/currentprice/CNY.json
-  // ?start=2013-09-01&end=2013-09-05
-  const priceToArrayConvert = (str, currency) => {
-    const dotIndex = str.indexOf(".");
-    return [currency, ...str.slice(0, dotIndex + 3).split("")];
+  const setPriceHandler = (str, currency) => {
+    const twoSigDigits = Number(str.replace(",", "")).toFixed(2);
+    const commaSeparatedStr = commaNumber(twoSigDigits);
+    setLivePrice([currency, ...commaSeparatedStr.split("")]);
   };
 
-  const getData = (start, end) => {
-    // const url = `https://api.coindesk.com/v1/bpi/historical/close.json?start=${start}&end=${end}`;
-    const url = "https://api.coindesk.com/v1/bpi/currentprice.json";
+  const timeConverter = d => {
+    return date.format(new Date(d), "YYYY-MM-DD");
+  };
+
+  const getLiveData = () => {
+    let url;
+
+    if (currentView === "live") {
+      url = "/btc/hour";
+    }
+
+    if (currentView === "day") {
+      url = "/btc/day";
+    }
+
     axios
       .get(url)
       .then(({ data }) => {
-        const price = data.bpi.USD.rate;
-        setLivePrice(priceToArrayConvert(price, "$"));
-        setLiveData(_.assignIn(liveData, { [data.time.updated]: data.bpi }));
+        const price = data[data.length - 1].USD;
+        setPriceHandler(price, "$");
+        setLiveData(data);
       })
       .catch(err => {
         console.log(err);
       });
   };
 
+  const getHistoricalData = () => {
+    let d = new Date();
+    const current = timeConverter(d);
+    let start;
+
+    if (currentView === "week") {
+      d.setDate(d.getDate() - 7);
+      start = timeConverter(d);
+    }
+
+    if (currentView === "month") {
+      d.setMonth(d.getMonth() - 1);
+      start = timeConverter(d);
+    }
+
+    if (currentView === "3month") {
+      d.setMonth(d.getMonth() - 3);
+      start = timeConverter(d);
+    }
+
+    if (currentView === "year") {
+      d.setFullYear(d.getFullYear() - 1);
+      start = timeConverter(d);
+    }
+
+    if (currentView === "5year") {
+      d.setFullYear(d.getFullYear() - 5);
+      start = timeConverter(d);
+    }
+
+    let url = `https://api.coindesk.com/v1/bpi/historical/close.json?start=${start}&end=${current}`;
+
+    if (currentView !== "live" && currentView !== "day") {
+      axios
+        .get(url)
+        .then(({ data }) => {
+          setHistoricalData(data.bpi);
+        })
+        .catch(err => {
+          console.log(err);
+        });
+    }
+  };
+
+  useEffect(() => {
+    getHistoricalData();
+  }, [currentView]);
+
+  useEffect(() => {
+    getLiveData();
+  }, [currentView]);
+
   useEffect(() => {
     const timer = setTimeout(() => {
-      getData();
+      getLiveData();
     }, 2000);
     return () => clearTimeout(timer);
-  }, [livePrice]);
+  }, [livePrice, currentView]);
 
   let content = (
     <>
@@ -71,17 +136,27 @@ const Chart = props => {
             </Col>
           </Row>
           <Row>
-            <Price price={livePrice} />
+            <Price livePrice={livePrice} />
           </Row>
-          <Row style={{ marginTop: "10%" }}>
-            <LineGraph
-              setLivePrice={setLivePrice}
-              priceToArrayConvert={priceToArrayConvert}
+          <Row style={{ marginTop: "3%" }}>
+            <Stats
+              currentView={currentView}
               liveData={liveData}
+              historicalData={historicalData}
+            />
+          </Row>
+          <Row style={{ marginTop: "2%" }}>
+            <LineGraph
+              currentView={currentView}
+              liveData={liveData}
+              historicalData={historicalData}
             />
           </Row>
           <Row style={{ margin: "2% 13% 0 7%" }}>
-            <ViewButtons />
+            <ViewButtons
+              currentView={currentView}
+              setCurrentView={setCurrentView}
+            />
           </Row>
         </Container>
       </>

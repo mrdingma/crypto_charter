@@ -1,42 +1,52 @@
-import React, { useState, useEffect, useRef } from "react";
+import React from "react";
 import { Line } from "react-chartjs-2";
 import { Container, Row, Col } from "react-bootstrap";
 import date from "date-and-time";
-import _ from "lodash";
+import commaNumber from "comma-number";
 
-const LineGraph = ({ setLivePrice, priceToArrayConvert, liveData }) => {
+const LineGraph = ({ liveData, currentView, historicalData }) => {
   const timeConverter = d => {
-    // return date.format(new Date(d), "MMM D, YYYY");
-    return date.format(new Date(d), "h:mm:ss A");
+    return date.format(new Date(d), "h:mm A");
   };
 
-  const insertComma = str => {
-    const periodIndex = str.indexOf(".");
-
-    if (periodIndex >= 4) {
-      return `${str.slice(0, periodIndex - 3)},${str.slice(periodIndex - 3)}`;
-    }
-    return str;
+  const timeConverterDay = d => {
+    return date.format(new Date(d), "MMM D, YYYY");
   };
 
   let content = <></>;
 
-  const config = {
-    labels: Object.keys(liveData).map(str => new Date(str)),
-    datasets: [
-      {
-        label: "EOD Prices",
-        fill: false,
-        lineTension: 0.5,
-        backgroundColor: "rgb(236,236,238)",
-        borderColor: "rgb(236,236,238)",
-        borderWidth: 2,
-        data: Object.values(liveData).map(currency =>
-          currency.USD.rate.replace(/,/gi, "")
-        )
-      }
-    ]
-  };
+  let config;
+  if (currentView === "live" || currentView === "day") {
+    config = {
+      labels: liveData.map(({ time }) => new Date(time)),
+      datasets: [
+        {
+          label: "EOD Prices",
+          fill: false,
+          lineTension: 0.5,
+          backgroundColor: "rgb(236,236,238)",
+          borderColor: "rgb(236,236,238)",
+          borderWidth: 2,
+          data: Object.values(liveData).map(({ USD }) => USD.replace(/,/gi, ""))
+        }
+      ]
+    };
+  } else {
+    config = {
+      labels: Object.keys(historicalData),
+      datasets: [
+        {
+          label: "EOD Prices",
+          fill: false,
+          lineTension: 0.5,
+          backgroundColor: "rgb(236,236,238)",
+          borderColor: "rgb(236,236,238)",
+          borderWidth: 2,
+          data: Object.values(historicalData)
+        }
+      ]
+    };
+  }
 
   content = (
     <>
@@ -47,14 +57,10 @@ const LineGraph = ({ setLivePrice, priceToArrayConvert, liveData }) => {
               <Line
                 data={config}
                 options={{
-                  title: {
-                    display: false,
-                    text: "BTC ($)",
-                    fontSize: 20
-                  },
                   elements: {
                     point: {
-                      radius: 1
+                      display: false,
+                      radius: 0
                     }
                   },
                   responsive: true,
@@ -63,16 +69,31 @@ const LineGraph = ({ setLivePrice, priceToArrayConvert, liveData }) => {
                     intersect: true
                   },
                   tooltips: {
+                    custom: function(tooltip) {
+                      if (!tooltip) return;
+                      tooltip.displayColors = false;
+                    },
                     mode: "index",
                     intersect: false,
                     axis: "x",
                     callbacks: {
                       title: function(tooltipItems, data) {
-                        return timeConverter(tooltipItems[0].xLabel);
-                        // return insertComma(tooltipItems[0].yLabel);
+                        const twoSigDigits = Number(
+                          tooltipItems[0].value
+                        ).toFixed(2);
+                        if (currentView === "live" || currentView === "day") {
+                          return `${timeConverter(
+                            tooltipItems[0].xLabel
+                          )}\n$${commaNumber(twoSigDigits)}`;
+                        }
+                        return `${timeConverterDay(
+                          tooltipItems[0].xLabel
+                        )}\n$${commaNumber(twoSigDigits)}`;
                       },
                       label: function(tooltipItems, data) {
-                        return "";
+                        return;
+                        // const twoSigDig = Number(tooltipItems.value).toFixed(2);
+                        // return `$${commaNumber(twoSigDigits)}`;
                       }
                     }
                   },

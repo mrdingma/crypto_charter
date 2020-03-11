@@ -1,5 +1,5 @@
 module.exports = {
-  // mongodb: {
-  //   dsn: "mongodb://localhost:27017/00bug"
-  // }
+  cryptoDB: {
+    dsn: "http://52.8.74.53:3000"
+  }
 };
