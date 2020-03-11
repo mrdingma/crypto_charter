@@ -1,23 +1,11 @@
-## Project Name & Pitch
+## Crypto Charter
 
-#### Example:
+An application used to track prices (in USD) of Bitcoin over various time intervals. Built with React, JavaScript, and CSS.
 
-TweetWorld 
 
-An application used to filter data form Twitter based on user preference, built with React, Redux, JavaScript, and CSS.
+## Demo
 
-## Project Status
-(only necessary if incomplete)
-
-#### Example:
-
-This project is currently in development. Users can filter tweets by username and keyword and see visual data representation. Functionality to sort by additional parameters is in progress.
-
-## Project Screen Shot(s)
-
-#### Example:   
-
-[ PRETEND SCREEN SHOT IS HERE ]
+<img src="https://media.giphy.com/media/dxh8r9WvGnGvniwtrW/giphy.gif">
 
 [ PRETEND OTHER SCREEN SHOT IS HERE ]
 
