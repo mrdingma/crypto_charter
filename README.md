@@ -1,6 +1,6 @@
 ## Crypto Charter
 
-An application used to track prices (in USD) of Bitcoin over various time intervals. Built with React, JavaScript, and CSS.
+An application used to track prices (in USD) of Bitcoin over various time intervals.
 
 
 (disclaimer: pricing data was obtained from the CoinDesk API)
